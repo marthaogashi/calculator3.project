@@ -21,6 +21,4 @@ A lightweight command-line calculator written in Python. It supports basic arith
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/simple-calculator.git
-cd simple-calculator
-# calculator3.project
+
